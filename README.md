@@ -1,1 +1,1 @@
-## Academic project to study how real time database can be build using socket.io ➡️⬅️
+## Academic project to study how real time database can be built using socket.io ➡️⬅️
